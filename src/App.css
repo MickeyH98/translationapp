@@ -1,0 +1,49 @@
+body {
+  background-color: beige;
+}
+
+.App {
+  text-align: center;
+  background-color: skyblue;
+  float: left;
+  margin: 0 5%;
+  width: 90%;
+}
+
+.languageSelect {
+  background-color: white;
+  width: 60%;
+  margin: 20px 20%;
+  float: left;
+}
+
+.cardContainer {
+  background-color: white;
+  width: 90%;
+  margin: 20px 5%;
+  float: left;
+}
+
+.cardContainer h2 {
+  height: 10%;
+}
+
+/*.cardLeft {
+  float: left;
+  width: 30%;
+  height: 90%;
+  background-color: red;
+}
+
+.cardMiddle {
+  width: 30%;
+  height: 90%;
+  background-color: blue;
+}
+
+.cardRight {
+  float: right;
+  width: 30%;
+  height: 90%;
+  background-color: green;
+}*/
